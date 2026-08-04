@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小孩发射计划</title>
+    <link>https://xiaohaifashejihua.pages.dev/</link>
+    <atom:link href="https://xiaohaifashejihua.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <copyright>&#xA9; 2026 晓婷</copyright>
+    <description>《小孩发射计划》是一档面向海外华人家庭的中文播客，关注孩子的成长、教育与未来。我们邀请不同领域的研究者、教育工作者和实践者，一起讨论双语发展、身份认同、AI时代的学习、职业探索与家庭教育。</description>
+    <lastBuildDate>Tue, 04 Aug 2026 14:29:00 -0700</lastBuildDate>
+    <generator>OpenAI podcast RSS generator</generator>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>晓婷</itunes:author>
+    <itunes:summary>《小孩发射计划》是一档面向海外华人家庭的中文播客，关注孩子的成长、教育与未来。我们邀请不同领域的研究者、教育工作者和实践者，一起讨论双语发展、身份认同、AI时代的学习、职业探索与家庭教育。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://xiaohaifashejihua.pages.dev/cover-3000.jpg" />
+    <itunes:owner>
+      <itunes:name>晓婷</itunes:name>
+      <itunes:email>xiaohaifashejihua@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education" />
+    <itunes:category text="Kids &amp; Family">
+      <itunes:category text="Parenting" />
+    </itunes:category>
+    <image>
+      <url>https://pub-48110264569c42e59a68a8d3ee873d90.r2.dev/cover-3000.jpg</url>
+      <title>小孩发射计划</title>
+      <link>https://xiaohaifashejihua.pages.dev/</link>
+    </image>
+
+    <item>
+      <title>海外孩子到底要不要坚持学中文？｜一位双语研究学者的回答</title>
+      <description>本期邀请香港理工大学语言科学技术系的孙馨老师，从儿童双语语言与阅读发展的研究出发，讨论海外孩子是否要坚持学中文、双语优势、语言发展、中文学习方式，以及语言与身份认同之间的关系。</description>
+      <content:encoded><![CDATA[
+<p>海外孩子学中文｜海外华人家庭｜双语教育｜中文学习｜双语优势｜儿童语言发展｜身份认同｜AI时代</p>
+<p>本期简介</p>
+<p>很多生活在海外的华人家庭，都在经历着一件相似的事情：孩子进入幼儿园、学校以后，英文越来越流利，而中文却慢慢变成了一件需要父母刻意坚持的事情。有的父母坚持和孩子讲中文、读中文书、送孩子去中文学校；也有的父母在一次次拉扯和挫败之后，最终选择放弃。</p>
+<p>所以，海外孩子到底要不要坚持学中文？</p>
+<p>带着这个问题，本期节目邀请到香港理工大学语言科学技术系的孙馨老师。从儿童双语语言与阅读发展的研究出发，我们一起聊一个很多海外华人家庭都绕不开的话题：学中文，到底是一种负担、一种优势，还是一种更长远的人生选择？</p>
+<p>孙馨老师分享了双语研究中最常被讨论的几个问题：双语孩子在注意力切换等基础认知任务上，可能存在一定优势，但学界并没有一致的定论；更重要的是，目前并没有证据表明双语学习会导致孩子说话更晚，也不会妨碍英文的发展。真正让中文变得困难的，往往不是语言本身，而是它慢慢变成了额外的作业和压力。</p>
+<p>节目后半段，我们把视角从实验室带回家庭：孩子为什么会用英文回答中文？为什么中文的听说和读写是两件不同的事？中文学校、线上课程和家长自己教，各有什么优缺点？孙馨老师建议不要强行推动，而是尽早建立中文输入、阅读习惯和真实的使用场景，让中文不只是课外作业，而是一种能够连接朋友、祖辈、文化和身份认同的能力。</p>
+<p>聊到最后，我们发现，这一期真正想回答的，也许并不是中文有没有用。中文当然可能带来更多机会，但它更意味着孩子能不能和祖父母自在地交流，能不能走进中文世界的文学、电影和文化，能不能在未来的人生里，多一种理解自己的方式，也多一种连接世界的可能。</p>
+<p>正如孙馨老师在节目中所说，“会中文，是多一种选择。”</p>
+<p>🧩 概念解释</p>
+<p>Heritage speaker：指在家庭中接触、继承某种语言的人。例如父母是华人、家里讲中文，但在英文环境中长大的孩子。<br />Late Talker：指语言表达发展较晚的孩子。如果理解能力正常，很多孩子都会在之后几年逐渐追赶上来。<br />Language brokering：指孩子帮助父母或家人翻译、解释语言，例如陪父母看医生、办理事务时充当“小翻译”。研究发现，这样的经历也会影响双语发展。<br />Assimilation / integration：文化心理学中常见的两种身份适应方式。前者更倾向于融入主流文化，后者则是在融入的同时，也保留自己的文化和语言。<br />Growth mindset / fixed mindset：由心理学家 Carol Dweck 提出的经典理论，也是孙馨老师长期关注的研究方向之一。未来我们也希望邀请孙老师再聊聊这个话题。</p>
+<p>⏱ 章节时间戳</p>
+<p>00:00:19 孙馨老师：儿童双语语言与阅读发展研究<br />00:03:45 为什么开始研究儿童双语？<br />00:05:37 一两岁的孩子不会读写，研究者如何测语言能力？<br />00:08:09 从词汇、阅读到脑成像：学龄儿童双语研究怎么做<br />00:11:53 谁在参加双语研究？样本代表性与大学城现象<br />00:16:04 “双语优势”真的存在吗？科学研究怎么说<br />00:19:30 双语会让孩子说话更晚吗？<br />00:20:35 拼音、自然拼读和英文学习会互相干扰吗<br />00:22:53 为什么孩子开始越来越爱说英文？<br />00:28:47 孩子帮父母翻译反而带来了双语优势？<br />00:33:11 中文为什么更难学？汉字和英文词汇的不同挑战<br />00:44:23 中文有没有用？那些无法量化的价值<br />00:47:58 身份认同：为什么会中文意味着多一种选择？<br />00:53:30 美国大学城 vs. 温哥华：不同华人社区的语言环境<br />00:56:41 印度裔、韩裔家庭的文化传承与命名观察<br />00:59:07 取中文名还是英文名？名字背后的认同感<br />01:04:00 不同年龄段，如何温和地陪孩子学中文？<br />01:11:38 中文学校、网课还是家长自己教？<br />01:16:44 为什么带孩子回国是最好的中文课堂？<br />01:21:07 口音不是问题：祖辈带口音的普通话也有价值<br />01:21:51 结语：为什么坚持中文，是为孩子保留一种选择</p>
+<p>如果你也是生活在海外的家长，欢迎添加微信：ms_muffin，加入《小孩发射计划》听友群。<br />希望这里能成为一个彼此支持、共同成长的社区。我们会一起讨论海外孩子的成长、AI时代的教育、身份认同、职业发展等话题，分享资源，交流经验。</p>
+      ]]></content:encoded>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">xiaohaifashejihua-episode-001</guid>
+      <enclosure url="https://pub-48110264569c42e59a68a8d3ee873d90.r2.dev/episodes/episode-001.mp3" length="121567867" type="audio/mpeg" />
+      <itunes:author>晓婷</itunes:author>
+      <itunes:title>海外孩子到底要不要坚持学中文？｜一位双语研究学者的回答</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:24:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:summary>本期邀请香港理工大学语言科学技术系的孙馨老师，从儿童双语语言与阅读发展的研究出发，讨论海外孩子是否要坚持学中文、双语优势、语言发展、中文学习方式，以及语言与身份认同之间的关系。</itunes:summary>
+      <itunes:image href="https://xiaohaifashejihua.pages.dev/cover-3000.jpg" />
+    </item>
+  </channel>
+</rss>
